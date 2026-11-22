@@ -105,8 +105,8 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sisodiaumang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiaumang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="230" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sisodiaumang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,prs_merged_percentage,reviews" />
+  <img height="230" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisodiaumang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="left">
@@ -119,8 +119,12 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- The public trophy server is often rate-limited. If this breaks, deploy your own copy
+     (fork ryo-ma/github-profile-trophy -> import to Vercel) and replace the host below. -->
 <p align="left">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sisodiaumang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sisodiaumang&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&row=1" />
+  </a>
 </p>
 
 ## 📬 Let's Connect
